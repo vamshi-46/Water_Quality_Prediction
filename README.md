@@ -44,6 +44,10 @@ The model predicts multiple water quality parameters such as:
 
 The model was evaluated using:
 
+
+##Model Link
+https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=drive_link
+
 - **R² Score**
 - **Mean Squared Error (MSE)**
 
